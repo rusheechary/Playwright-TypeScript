@@ -6,6 +6,7 @@ let age: number = 27;
 let isTrue: boolean = true;
 
 let k: number =49;
+let v: string = `Hello `;
 
 console.log(a + b);
 console.log(userName);
