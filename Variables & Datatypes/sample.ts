@@ -19,4 +19,4 @@ console.log('The age of ' + userName + ' is ' + age + '. And the statement is ' 
 console.log("The age of " + userName + " is " + age + ". And the statement is " + isTrue);
 
 
-// how are you?
+// how are you? hi
